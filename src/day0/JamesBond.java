@@ -1,4 +1,4 @@
-pacajge day0;
+package day0;
 
 public class JamesBond{
   
