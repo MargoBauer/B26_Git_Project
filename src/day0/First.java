@@ -6,7 +6,6 @@ public class First {
         System.out.println("Java");
     }
 
-
     // extra line 1
     // extra line 2
     // extra line 3
